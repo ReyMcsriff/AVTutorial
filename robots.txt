@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://reymcsriff.github.io/AVTutorial/sitemap.xml

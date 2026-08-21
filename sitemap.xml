@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://reymcsriff.github.io/AVTutorial/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://reymcsriff.github.io/AVTutorial/</loc>
+</url>
+<url>
+<loc>https://reymcsriff.github.io/AVTutorial/hallowell-conference-center-tutorial.html</loc>
+<lastmod>2026-08-20T11:39:08-04:00</lastmod>
+</url>
+<url>
+<loc>https://reymcsriff.github.io/AVTutorial/how-to-drop-the-projectors-from-the-ceiling.html</loc>
+<lastmod>2026-08-21T08:33:07-04:00</lastmod>
+<image:image>
+<image:loc>https://reymcsriff.github.io/AVTutorial/media/posts/2/image002.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://reymcsriff.github.io/AVTutorial/how-to-drop-the-projectors.html</loc>
+<lastmod>2026-08-21T08:55:40-04:00</lastmod>
+<image:image>
+<image:loc>https://reymcsriff.github.io/AVTutorial/media/posts/3/image002.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://reymcsriff.github.io/AVTutorial/media/posts/3/image003.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
